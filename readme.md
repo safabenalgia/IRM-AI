@@ -21,4 +21,5 @@ In order to install the working environment, follow the steps :
 
 ## Step 5: Deactivate the virtual environment
 
-    $deactivate
+    $deactivate"# IRM-AI" 
+"# IRM-AI" 
