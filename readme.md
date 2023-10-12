@@ -3,8 +3,9 @@
 
 In order to install the working environment, follow the steps :
 
-## Step 1: Open the terminal (cmd) and move to the root directory
+## Step 1: Open the terminal (cmd) and clone the repo
 
+    $git clone https://github.com/MarouaneAyech/AI_course.git
     $cd AI_course
 
 ## Step 2: Create a virtual environment venv_ai 
